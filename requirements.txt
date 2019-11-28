@@ -1,0 +1,7 @@
+# requirements.txt - edited to just include Sea-Level-Rise packages
+matplotlib==3.1.1
+numpy==1.17.3
+pandas==0.25.2
+pandocfilters==1.4.2
+PyPDF2==1.26.0
+requests==2.22.0
