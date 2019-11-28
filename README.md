@@ -53,7 +53,7 @@ The development project consists of the following four main python programs:
    produce the data visualization.
    <br />&nbsp;<br />
 
-## 5. Conclusion
+## 4. Conclusion
 
 It's difficult to make any definitive conclusions about which county or counties are
 most at risk from sea-level change, given the limited amount of data gathered and visualized,
@@ -67,7 +67,7 @@ while shoreline miles do not seem to be a good proxy for risk by themselves.</p>
 <p>Technical conclusions include the takeaway that the Python programming language is well positioned for this kind of 
 data analysis, with modules to access APIs, do File I/O, and quickly process and visualize data.</p>
 
-## 6. Python programs
+## 5. Python programs
 
 ### Key files included in the project zip file include 3 Jupyter Notebook files and 1 .py utility file <br />
 
@@ -80,6 +80,6 @@ data analysis, with modules to access APIs, do File I/O, and quickly process and
 
 ## Appendix A: References
 
-1- Correct way to try/except using Python requests module?
+Correct way to try/except using Python requests module?
 
 https://stackoverflow.com/questions/16511337/correct-way-to-try-except-using-python-requests-module
