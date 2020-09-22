@@ -18,9 +18,9 @@ Additional datapoints will be extracted from PDF risk assessment files for each 
 _Required Imports (Also see the included requirements.txt)_
 
 - import requests
-- import numpy
+- import numpy as np
 - import pandas as pd
-- import matplotlib
+- import matplotlib.pyplot as plt
 - import PyPDF2
 
 ## 3. Description of the Python programs
@@ -77,9 +77,3 @@ data analysis, with modules to access APIs, do File I/O, and quickly process and
 - ccc_risk_factors.ipynb
 - shoreline_miles_as_risk_proxy.ipynb
 - econ_impact_ocean_sector_gdp.ipynb
-
-## Appendix A: References
-
-Correct way to try/except using Python requests module?
-
-https://stackoverflow.com/questions/16511337/correct-way-to-try-except-using-python-requests-module
